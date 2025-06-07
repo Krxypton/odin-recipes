@@ -1,1 +1,2 @@
-# odin-recipes
+This project showcases my newly acquired HTML skills. I created multiple web pages, each featuring different recipes. In this project, I demonstrated my ability to use both ordered and unordered lists, and I can now confidently write the HTML boilerplate from memory. I also used the terminal to move images from the Downloads directory to a specific subdirectory, which helped me deepen my understanding of command line operations. One area for improvement is my use of commit messages — I completely forgot to add them throughout the project. In the future, I’ll make sure to include more meaningful commit messages as part of my workflow.
+
